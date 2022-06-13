@@ -2,19 +2,13 @@
 
 ## Goals of this Project
 <br>
-See README within Develop Folder for full description <br /> <br>
-
-Source code has been edited so that we have semantic HTML Elements
-
+Source code has been edited so that we have semantic HTML Elements.
 <br>
-
-Icons and Images have alt attributes
-
+Icons and Images have alt attributes.
 <br>
-Heading attributes are in sequential order
-
+Heading attributes are in sequential order.
 <br>
-Title is consise and decriptive
+Title is consise and decriptive.
 
 <br>
 
